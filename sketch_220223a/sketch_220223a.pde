@@ -153,7 +153,7 @@ background(255);
 textSize(75);
 image(img3, 100,100,600,600);
 text("Thanks for Watching", 400, 100);
-text("I hope you enjoyed!", 400, 800);
+text("I hope you enjoyed!", 400, 600);
 }
  
 }
